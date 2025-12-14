@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "恋音インセプション",
+  "base_artist": "Drug&Drop",
+  "createdAt": "2025-12-14T14:40:59.851590Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋音インセプション",
+      "artist": "Drug&Drop",
+      "has_synced": false,
+      "path": "select/pl_01_恋音インセプション_Drug&Drop.txt"
+    }
+  ]
+}
